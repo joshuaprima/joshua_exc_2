@@ -12,9 +12,9 @@ class UrlChecker{
 		Boolean MyBoolean = MyMatcher.matches();
 
 		if(MyBoolean == true){
-			System.out.println("Url is correct");
+			
 		}else{
-			System.out.println("Url is incorrect");
+			
 		}
 	}
 }
